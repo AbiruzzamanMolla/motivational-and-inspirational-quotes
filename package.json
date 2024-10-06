@@ -3,6 +3,8 @@
   "displayName": "Motivational and Inspirational Quotes (Muslim)",
   "description": "This is a test quotes extension",
   "version": "0.0.1",
+  "icon": "icon.webp",
+  "publisher": "azmolla",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -61,7 +63,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azmolla/motivational-quotes-extension.git"
+    "url": "https://github.com/AbiruzzamanMolla/motivational-and-inspirational-quotes.git"
   },
   "homepage": "https://marketplace.visualstudio.com/publishers/azmolla"
 }
