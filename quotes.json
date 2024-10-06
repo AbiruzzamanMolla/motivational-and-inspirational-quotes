@@ -1,20 +1,1082 @@
 [
   {
-    "author": "Peter Drucker",
-    "reference": "",
-    "tags": ["inspiration", "future"],
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "Sahih Bukhari",
+    "tags": ["faith", "patience"],
     "translations": {
-      "bn": "ভবিষ্যৎকে পূর্বানুমান করার সেরা উপায় হল এটি তৈরি করা।",
-      "en": "The best way to predict the future is to create it."
+      "bn": "সাবধানতা অবলম্বন করা মুমিনের প্রধান গুণ।",
+      "en": "The most virtuous believer is one who is most cautious."
     }
   },
   {
-    "author": "Albert Schweitzer",
+    "author": "Ali ibn Abi Talib",
     "reference": "",
-    "tags": ["success", "happiness"],
+    "tags": ["wisdom", "life"],
     "translations": {
-      "bn": "সফলতা সুখের চাবিকাঠি নয়। সুখ সফলতার চাবিকাঠি।",
-      "en": "Success is not the key to happiness. Happiness is the key to success."
+      "bn": "সফলতা মনের দৃঢ়তা থেকে আসে।",
+      "en": "Success comes from the strength of the mind."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:286",
+    "tags": ["faith", "tests"],
+    "translations": {
+      "bn": "আল্লাহ কোন ব্যক্তি উপর তার সাধ্যের অধিক বোঝা চাপায় না।",
+      "en": "Allah does not burden a soul beyond that it can bear."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["determination", "action"],
+    "translations": {
+      "bn": "যদি তুমি কিছু করতে চাও, তোমার অবশ্যই চেষ্টা করতে হবে।",
+      "en": "If you wish to achieve something, you must strive for it."
+    }
+  },
+  {
+    "author": "Ibn Khaldun",
+    "reference": "",
+    "tags": ["knowledge", "development"],
+    "translations": {
+      "bn": "জ্ঞান হল জীবনের একমাত্র গুণ।",
+      "en": "Knowledge is the only virtue in life."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Inshirah 94:5-6",
+    "tags": ["hope", "ease"],
+    "translations": {
+      "bn": "অবশ্যই প্রতিটি কষ্টের সাথে সঙ্গী আছে একটি সহজতা।",
+      "en": "Indeed, with hardship comes ease."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["effort", "reward"],
+    "translations": {
+      "bn": "যে ব্যক্তি তার শ্রমের ফল পায়, সে কখনও হতাশ হয় না।",
+      "en": "He who works hard will never be disappointed."
+    }
+  },
+  {
+    "author": "Imam Ali",
+    "reference": "",
+    "tags": ["courage", "perseverance"],
+    "translations": {
+      "bn": "যুদ্ধ না করে জয়ী হওয়া যায় না।",
+      "en": "Victory cannot be achieved without battle."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Ar-Rahman 55:13",
+    "tags": ["gratitude", "appreciation"],
+    "translations": {
+      "bn": "তোমরা তোমাদের প্রভুর কোন কোন নিদর্শনকে অস্বীকার করবে?",
+      "en": "So which of the favors of your Lord would you deny?"
+    }
+  },
+  {
+    "author": "Umar ibn Al-Khattab",
+    "reference": "",
+    "tags": ["leadership", "responsibility"],
+    "translations": {
+      "bn": "যদি তুমি নেতৃত্বে থাকো, তবে তোমার দ্বায়িত্বগুলো ঠিকভাবে পালন করতে হবে।",
+      "en": "If you are in a position of leadership, you must fulfill your responsibilities properly."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["perseverance", "patience"],
+    "translations": {
+      "bn": "অধৈর্যশীলতার প্রতিদান সবার আগে আসে।",
+      "en": "The reward for patience comes first."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Fatihah 1:5",
+    "tags": ["guidance", "prayer"],
+    "translations": {
+      "bn": "আমরা শুধু তোমারই উপাসনা করি এবং শুধু তোমারই সাহায্য চাই।",
+      "en": "You alone we worship, and You alone we ask for help."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["courage", "fear"],
+    "translations": {
+      "bn": "সত্যের দিকে না যাওয়ার সবচেয়ে বড় ভয় হল মিথ্যা।",
+      "en": "The greatest fear of not pursuing the truth is living in falsehood."
+    }
+  },
+  {
+    "author": "Abu Huraira",
+    "reference": "",
+    "tags": ["kindness", "compassion"],
+    "translations": {
+      "bn": "সবার প্রতি সদয় হও, এমনকি তোমার শত্রুরাও।",
+      "en": "Be kind to all, even to your enemies."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Imran 3:139",
+    "tags": ["hope", "faith"],
+    "translations": {
+      "bn": "কখনো দুঃখিত হবে না, কারণ আল্লাহ আমাদের সাথে আছেন।",
+      "en": "Do not lose hope, for Allah is with us."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["charity", "generosity"],
+    "translations": {
+      "bn": "সবার মাঝে দানশীলতা বাড়ান।",
+      "en": "Increase generosity among people."
+    }
+  },
+  {
+    "author": "Abdullah ibn Mas'ud",
+    "reference": "",
+    "tags": ["truth", "honesty"],
+    "translations": {
+      "bn": "সত্য বলা মুমিনের দায়িত্ব।",
+      "en": "Telling the truth is a believer's responsibility."
+    }
+  },
+  {
+    "author": "Ibn Abbas",
+    "reference": "",
+    "tags": ["knowledge", "persistence"],
+    "translations": {
+      "bn": "জ্ঞান পাওয়া যায় কিন্তু তা অর্জন করতে হয়।",
+      "en": "Knowledge is available, but it must be earned."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["determination", "goals"],
+    "translations": {
+      "bn": "একটি দৃঢ় মনোভাবের সাথে শুরু করো।",
+      "en": "Start with a firm determination."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Hadid 57:23",
+    "tags": ["trials", "faith"],
+    "translations": {
+      "bn": "আর আল্লাহ তাদের পরীক্ষা করেন, যাতে তারা জানুক।",
+      "en": "And Allah tests them so that they may know."
+    }
+  },
+  {
+    "author": "Ibn Al-Qayyim",
+    "reference": "",
+    "tags": ["self-discipline", "faith"],
+    "translations": {
+      "bn": "আত্ম-নিয়ন্ত্রণে থাকার সময় তোমার বিশ্বাস বৃদ্ধি পায়।",
+      "en": "Your faith increases when you remain self-disciplined."
+    }
+  },
+  {
+    "author": "Uthman ibn Affan",
+    "reference": "",
+    "tags": ["knowledge", "action"],
+    "translations": {
+      "bn": "জ্ঞান গ্রহণ করতে হবে, এবং তা বাস্তবে প্রয়োগ করতে হবে।",
+      "en": "Knowledge must be acquired and applied in reality."
+    }
+  },
+  {
+    "author": "Aisha (RA)",
+    "reference": "",
+    "tags": ["strength", "support"],
+    "translations": {
+      "bn": "একসাথে থাকা আমাদের শক্তি।",
+      "en": "Being together is our strength."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["confidence", "action"],
+    "translations": {
+      "bn": "বিশ্বাসী হলে কিছু করা সম্ভব।",
+      "en": "If you believe, anything is possible."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Anfal 8:28",
+    "tags": ["love", "loyalty"],
+    "translations": {
+      "bn": "যে সম্পর্ক আমাদের আল্লাহর সঙ্গে নিবিড়, তা অক্ষুণ্ণ রাখতে হবে।",
+      "en": "Maintain the relationship that brings us closer to Allah."
+    }
+  },
+  {
+    "author": "Al-Ghazali",
+    "reference": "",
+    "tags": ["reflection", "soul"],
+    "translations": {
+      "bn": "আপনার আত্মার দিকে ফিরে তাকান।",
+      "en": "Reflect upon your soul."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Mulk 67:2",
+    "tags": ["creation", "purpose"],
+    "translations": {
+      "bn": "মানুষকে পরীক্ষা করার জন্য সৃষ্টি করা হয়েছে।",
+      "en": "Man has been created for the purpose of testing."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["forgiveness", "humility"],
+    "translations": {
+      "bn": "ক্ষমা করা মুমিনের গুণ।",
+      "en": "Forgiveness is a quality of the believer."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["passion", "dedication"],
+    "translations": {
+      "bn": "যেখানে তোমার আগ্রহ, সেখানে তোমার শক্তি।",
+      "en": "Where your passion is, there your strength lies."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Mumtahanah 60:8",
+    "tags": ["kindness", "charity"],
+    "translations": {
+      "bn": "যারা আল্লাহর জন্য সদাচরণ করে তাদেরকে আপনি উপেক্ষা করবেন না।",
+      "en": "Do not disregard those who do good for the sake of Allah."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["service", "community"],
+    "translations": {
+      "bn": "সেবা করার মধ্যে আমাদের শক্তি।",
+      "en": "In serving others, we find our strength."
+    }
+  },
+  {
+    "author": "Al-Ghazali",
+    "reference": "",
+    "tags": ["purity", "intention"],
+    "translations": {
+      "bn": "নিয়মিত মনকে পরিষ্কার রাখুন।",
+      "en": "Keep your mind pure regularly."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Ankabut 29:69",
+    "tags": ["faith", "guidance"],
+    "translations": {
+      "bn": "যারা আল্লাহর পথে চেষ্টা করে, তাদেরকে তিনি নিশ্চয় পথ দেখাবেন।",
+      "en": "Indeed, those who strive in Our cause, We will guide them."
+    }
+  },
+  {
+    "author": "Abdullah ibn Abbas",
+    "reference": "",
+    "tags": ["knowledge", "action"],
+    "translations": {
+      "bn": "জ্ঞান ও কাজের সংমিশ্রণ জীবনের জন্য গুরুত্বপূর্ণ।",
+      "en": "The combination of knowledge and action is essential for life."
+    }
+  },
+  {
+    "author": "Ibn Qayyim",
+    "reference": "",
+    "tags": ["patience", "faith"],
+    "translations": {
+      "bn": "সাবর করা হল একজন মুমিনের গুণ।",
+      "en": "Patience is a quality of a believer."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:153",
+    "tags": ["strength", "help"],
+    "translations": {
+      "bn": "হে যারা বিশ্বাসী! নিশ্চয়ই আল্লাহর সাহায্য তোমাদের ওপর রয়েছে।",
+      "en": "O you who have believed! Indeed, Allah's support is upon you."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["growth", "wisdom"],
+    "translations": {
+      "bn": "প্রতিটি সমস্যায় একটি শিক্ষা রয়েছে।",
+      "en": "In every problem, there is a lesson."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah An-Nahl 16:90",
+    "tags": ["justice", "kindness"],
+    "translations": {
+      "bn": "আল্লাহ তো তোমাদেরকে নির্দেশ দেয় যে, তোমরা ন্যায় ও সদাচরণ করবে।",
+      "en": "Indeed, Allah commands you to render trust to whom they are due and when you judge between people to judge with justice."
+    }
+  },
+  {
+    "author": "Abu Bakr",
+    "reference": "",
+    "tags": ["honesty", "integrity"],
+    "translations": {
+      "bn": "সত্য বলার সাহস তোমার মধ্যে থাকতে হবে।",
+      "en": "You must have the courage to speak the truth."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Isra 17:23",
+    "tags": ["family", "respect"],
+    "translations": {
+      "bn": "তোমার পিতামাতার প্রতি সদয় হও।",
+      "en": "And your Lord has decreed that you not worship except Him, and to parents, good treatment."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["love", "unity"],
+    "translations": {
+      "bn": "একসাথে কাজ করা আমাদের সবার জন্য উত্তম।",
+      "en": "Working together is best for all of us."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Mulk 67:15",
+    "tags": ["earth", "nature"],
+    "translations": {
+      "bn": "তাদের কাছে যান যারা পৃথিবীকে সুন্দর করে গড়ে তুলছে।",
+      "en": "Go to those who beautify the earth."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["compassion", "service"],
+    "translations": {
+      "bn": "সেবা করা আমাদের কর্তব্য।",
+      "en": "Serving others is our duty."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Furqan 25:67",
+    "tags": ["patience", "kindness"],
+    "translations": {
+      "bn": "যারা কঠোর, যারা সদয়।",
+      "en": "Those who are gentle and kind."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["leadership", "vision"],
+    "translations": {
+      "bn": "ভবিষ্যতের জন্য দৃঢ় নেতৃত্ব গঠন করতে হবে।",
+      "en": "Build strong leadership for the future."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Ash-Sharh 94:7",
+    "tags": ["success", "effort"],
+    "translations": {
+      "bn": "অবশ্যই, যখন আপনি অসুবিধায় পড়বেন তখনই সফল হবেন।",
+      "en": "Indeed, you will succeed when you face difficulties."
+    }
+  },
+  {
+    "author": "Ibn Al-Jawzi",
+    "reference": "",
+    "tags": ["contentment", "gratitude"],
+    "translations": {
+      "bn": "কৃতজ্ঞতা সকল জীবনের একমাত্র গুণ।",
+      "en": "Gratitude is the only virtue of all life."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["struggle", "resilience"],
+    "translations": {
+      "bn": "যারা সংগ্রাম করে তাদের জন্য পুরস্কার অপেক্ষা করছে।",
+      "en": "A reward awaits those who struggle."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Ahqaf 46:13",
+    "tags": ["faith", "determination"],
+    "translations": {
+      "bn": "সত্যিকারভাবে বিশ্বাসী যারা, তারা কখনো হারাবে না।",
+      "en": "Those who truly believe will never lose."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["faith", "action"],
+    "translations": {
+      "bn": "বিশ্বাস এবং কাজের সমন্বয় সর্বদা সফল।",
+      "en": "The combination of faith and action is always successful."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Anfal 8:28",
+    "tags": ["love", "compassion"],
+    "translations": {
+      "bn": "আল্লাহের প্রেমের সাথে সম্পর্ক তৈরি করুন।",
+      "en": "Build a relationship with the love of Allah."
+    }
+  },
+  {
+    "author": "Ibn Qayyim",
+    "reference": "",
+    "tags": ["knowledge", "strength"],
+    "translations": {
+      "bn": "জ্ঞানই আমাদের শক্তি।",
+      "en": "Knowledge is our strength."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["peace", "kindness"],
+    "translations": {
+      "bn": "শান্তি এবং সদয়তা সব সময়ই গুরুত্বপূর্ণ।",
+      "en": "Peace and kindness are always important."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah An-Nisa 4:36",
+    "tags": ["respect", "family"],
+    "translations": {
+      "bn": "আপনার পিতামাতার প্রতি সদয় হন।",
+      "en": "Be kind to your parents."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["integrity", "honesty"],
+    "translations": {
+      "bn": "সত্য এবং সৎ হওয়া আমাদের জীবনের মূল।",
+      "en": "Truth and honesty are the core of our lives."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:286",
+    "tags": ["strength", "faith"],
+    "translations": {
+      "bn": "আল্লাহ কখনো আমাদের উপর বোঝা চাপায় না।",
+      "en": "Allah does not burden us beyond our capabilities."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["leadership", "teamwork"],
+    "translations": {
+      "bn": "সবার সঙ্গে কাজ করা আমাদের কর্তব্য।",
+      "en": "Working with everyone is our duty."
+    }
+  },
+  {
+    "author": "Ibn Mas'ud",
+    "reference": "",
+    "tags": ["knowledge", "wisdom"],
+    "translations": {
+      "bn": "জ্ঞানই আমাদের জীবনের সেরা সঙ্গী।",
+      "en": "Knowledge is the best companion in life."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Mumtahanah 60:8",
+    "tags": ["kindness", "respect"],
+    "translations": {
+      "bn": "যারা সদাচরণ করে, তাদের সঙ্গী হও।",
+      "en": "Be with those who do good."
+    }
+  },
+  {
+    "author": "Abu Huraira",
+    "reference": "",
+    "tags": ["kindness", "charity"],
+    "translations": {
+      "bn": "দানশীলতা আমাদের জীবনের শ্রেষ্ঠ গুণ।",
+      "en": "Generosity is the greatest virtue of our lives."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Anfal 8:72",
+    "tags": ["unity", "strength"],
+    "translations": {
+      "bn": "একসাথে থাকা আমাদের শক্তি।",
+      "en": "Togetherness is our strength."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["self-improvement", "faith"],
+    "translations": {
+      "bn": "নিজেকে উন্নত করতে সর্বদা চেষ্টা করো।",
+      "en": "Always strive for self-improvement."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Mumtahanah 60:7",
+    "tags": ["forgiveness", "kindness"],
+    "translations": {
+      "bn": "ক্ষমা দেওয়া মুমিনের গুণ।",
+      "en": "Forgiving is a quality of a believer."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["determination", "resilience"],
+    "translations": {
+      "bn": "শক্তি দিয়ে সংগ্রাম করো।",
+      "en": "Strive with strength."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Ash-Sharh 94:5",
+    "tags": ["hope", "optimism"],
+    "translations": {
+      "bn": "অবশ্যই, প্রতিটি কষ্টের পরে একটি সহজতা রয়েছে।",
+      "en": "Indeed, after every hardship, there is ease."
+    }
+  },
+  {
+    "author": "Ibn Qayyim",
+    "reference": "",
+    "tags": ["patience", "endurance"],
+    "translations": {
+      "bn": "ধৈর্য ও সহ্য করার মাধ্যমে শক্তি বাড়াও।",
+      "en": "Increase your strength through patience and endurance."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Ahqaf 46:13",
+    "tags": ["faith", "resilience"],
+    "translations": {
+      "bn": "বিশ্বাসীদের মধ্যে কখনো হারিয়ে যাওয়া নেই।",
+      "en": "There is no losing among the believers."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["unity", "community"],
+    "translations": {
+      "bn": "একতা হল শক্তি।",
+      "en": "Unity is strength."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:218",
+    "tags": ["faith", "devotion"],
+    "translations": {
+      "bn": "নিশ্চিত থাকো, আল্লাহ তোমাদের সাথে রয়েছেন।",
+      "en": "Rest assured, Allah is with you."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["wisdom", "experience"],
+    "translations": {
+      "bn": "অভিজ্ঞতা হলো সেরা শিক্ষিকা।",
+      "en": "Experience is the best teacher."
+    }
+  },
+  {
+    "author": "Ibn Mas'ud",
+    "reference": "",
+    "tags": ["knowledge", "application"],
+    "translations": {
+      "bn": "জ্ঞানকে বাস্তবে প্রয়োগ করতে হবে।",
+      "en": "Knowledge must be applied in practice."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Fatiha 1:6",
+    "tags": ["guidance", "prayer"],
+    "translations": {
+      "bn": "হে আল্লাহ, আমাদের সঠিক পথ প্রদর্শন করুন।",
+      "en": "O Allah, guide us to the straight path."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["dedication", "faith"],
+    "translations": {
+      "bn": "বিশ্বাসের সাথে আত্মনিবেদন করো।",
+      "en": "Dedicate yourself with faith."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["truth", "action"],
+    "translations": {
+      "bn": "সত্য বলার জন্য কখনও ভয় পেও না।",
+      "en": "Never be afraid to speak the truth."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:186",
+    "tags": ["support", "guidance"],
+    "translations": {
+      "bn": "আমি নিশ্চিত তোমাদের সঙ্গে আছি।",
+      "en": "I am surely with you."
+    }
+  },
+  {
+    "author": "Ibn Al-Jawzi",
+    "reference": "",
+    "tags": ["love", "kindness"],
+    "translations": {
+      "bn": "প্রেম ও সদয়তা আমাদের জীবনের মন্ত্র।",
+      "en": "Love and kindness are our life's mantra."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["faith", "determination"],
+    "translations": {
+      "bn": "বিশ্বাস ও সংগ্রামের সাথে জীবনে এগিয়ে যাও।",
+      "en": "Move forward in life with faith and struggle."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Tawbah 9:51",
+    "tags": ["acceptance", "trust"],
+    "translations": {
+      "bn": "আল্লাহ যা পছন্দ করেন, তা তোমাদের জন্য ভালো।",
+      "en": "What Allah wills is good for you."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["vision", "future"],
+    "translations": {
+      "bn": "ভবিষ্যতের জন্য একটি দৃষ্টিভঙ্গি তৈরি করো।",
+      "en": "Create a vision for the future."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Hadid 57:22",
+    "tags": ["destiny", "divine will"],
+    "translations": {
+      "bn": "সবকিছু আল্লাহর ইচ্ছায় ঘটে।",
+      "en": "Everything happens by the will of Allah."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["inspiration", "action"],
+    "translations": {
+      "bn": "প্রেরণা দিয়ে কাজ শুরু করো।",
+      "en": "Start working with inspiration."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Nahl 16:125",
+    "tags": ["wisdom", "truth"],
+    "translations": {
+      "bn": "সত্য ও সহনশীলতা প্রচার করো।",
+      "en": "Promote truth and tolerance."
+    }
+  },
+  {
+    "author": "Ibn Qayyim",
+    "reference": "",
+    "tags": ["perseverance", "strength"],
+    "translations": {
+      "bn": "ধৈর্য ও স্থিরতার মাধ্যমে শক্তি তৈরি করো।",
+      "en": "Build strength through perseverance and stability."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Anfal 8:29",
+    "tags": ["faith", "trust"],
+    "translations": {
+      "bn": "আল্লাহের উপর বিশ্বাস করো।",
+      "en": "Trust in Allah."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["compassion", "kindness"],
+    "translations": {
+      "bn": "দয়া ও সদয়তা সর্বদা অপরিহার্য।",
+      "en": "Compassion and kindness are always essential."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:233",
+    "tags": ["support", "trust"],
+    "translations": {
+      "bn": "আল্লাহর ওপর বিশ্বাস রাখো।",
+      "en": "Keep faith in Allah."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["purpose", "meaning"],
+    "translations": {
+      "bn": "জীবনের উদ্দেশ্য খুঁজে বের করো।",
+      "en": "Find the purpose of life."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Fatiha 1:7",
+    "tags": ["guidance", "faith"],
+    "translations": {
+      "bn": "তুমি আমাদের পথ দেখাও।",
+      "en": "Guide us on our path."
+    }
+  },
+  {
+    "author": "Ibn Mas'ud",
+    "reference": "",
+    "tags": ["growth", "wisdom"],
+    "translations": {
+      "bn": "বিকাশের জন্য আমাদের মাঝে অভিজ্ঞতা থাকা উচিত।",
+      "en": "We should have experience for growth."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:48",
+    "tags": ["awareness", "divine support"],
+    "translations": {
+      "bn": "আল্লাহ তোমাদেরকে সাহায্য করবেন।",
+      "en": "Allah will help you."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["trust", "patience"],
+    "translations": {
+      "bn": "সত্যের দিকে বিশ্বাস এবং ধৈর্য নিয়ে এগিয়ে যাও।",
+      "en": "Move forward with trust and patience towards the truth."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Anfal 8:72",
+    "tags": ["kindness", "strength"],
+    "translations": {
+      "bn": "একসাথে থাকা আমাদের শক্তি।",
+      "en": "Togetherness is our strength."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["unity", "strength"],
+    "translations": {
+      "bn": "একতা আমাদের শক্তি।",
+      "en": "Unity is our strength."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Hadid 57:22",
+    "tags": ["strength", "destiny"],
+    "translations": {
+      "bn": "অবশ্যই, সবকিছু আল্লাহর ইচ্ছায় ঘটে।",
+      "en": "Indeed, everything happens by the will of Allah."
+    }
+  },
+  {
+    "author": "Ibn Al-Jawzi",
+    "reference": "",
+    "tags": ["love", "compassion"],
+    "translations": {
+      "bn": "দয়া ও প্রেম আমাদের জীবনের মূল।",
+      "en": "Compassion and love are the core of our lives."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:10",
+    "tags": ["faith", "protection"],
+    "translations": {
+      "bn": "আল্লাহ তাদেরকে অবশ্যই রক্ষা করবেন।",
+      "en": "Allah will surely protect them."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["faith", "sincerity"],
+    "translations": {
+      "bn": "বিশ্বাসের সাথে কাজ করো।",
+      "en": "Work with sincerity."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["wisdom", "humility"],
+    "translations": {
+      "bn": "বুদ্ধি আমাদেরকে বিনয়ী রাখে।",
+      "en": "Wisdom keeps us humble."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Fatiha 1:5",
+    "tags": ["guidance", "faith"],
+    "translations": {
+      "bn": "তুমি আমাদের পথপ্রদর্শক।",
+      "en": "You are our guide."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["unity", "community"],
+    "translations": {
+      "bn": "একত্রে কাজ করা শক্তির মূল।",
+      "en": "Working together is the essence of strength."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Mumtahanah 60:9",
+    "tags": ["kindness", "faith"],
+    "translations": {
+      "bn": "যারা আল্লাহর পথে চলেন, তাদেরকে আল্লাহ সাহায্য করেন।",
+      "en": "Those who walk in the path of Allah, Allah helps them."
+    }
+  },
+  {
+    "author": "Ibn Qayyim",
+    "reference": "",
+    "tags": ["compassion", "love"],
+    "translations": {
+      "bn": "দয়া ও প্রেম আমাদেরকে সংযুক্ত করে।",
+      "en": "Compassion and love connect us."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Anfal 8:24",
+    "tags": ["trust", "faith"],
+    "translations": {
+      "bn": "বিশ্বাসের মাধ্যমে আল্লাহর উপর নির্ভরশীল হও।",
+      "en": "Rely on Allah through trust."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["determination", "strength"],
+    "translations": {
+      "bn": "শক্তি দিয়ে চলতে থাকো।",
+      "en": "Keep moving forward with strength."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["growth", "purpose"],
+    "translations": {
+      "bn": "জীবনের উদ্দেশ্য খুঁজে বের করো।",
+      "en": "Find the purpose of life."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:155",
+    "tags": ["patience", "faith"],
+    "translations": {
+      "bn": "সত্যিকারভাবে বিশ্বাসী হও।",
+      "en": "Be a true believer."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["unity", "strength"],
+    "translations": {
+      "bn": "একতা আমাদের শক্তি।",
+      "en": "Unity is our strength."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:3",
+    "tags": ["guidance", "faith"],
+    "translations": {
+      "bn": "যারা বিশ্বাস করে, তারা সঠিক পথে রয়েছে।",
+      "en": "Those who believe are on the right path."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["wisdom", "action"],
+    "translations": {
+      "bn": "বুদ্ধিমত্তা কাজের মধ্যে থাকে।",
+      "en": "Wisdom lies in action."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Hadid 57:25",
+    "tags": ["strength", "community"],
+    "translations": {
+      "bn": "শক্তি একত্রে থাকার মধ্যে।",
+      "en": "Strength is in togetherness."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["sacrifice", "community"],
+    "translations": {
+      "bn": "আমরা একসাথে শক্তি বৃদ্ধি করি।",
+      "en": "We strengthen together."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:196",
+    "tags": ["support", "community"],
+    "translations": {
+      "bn": "পরস্পরের সহযোগিতা ও সমর্থন গুরুত্বপূর্ণ।",
+      "en": "Mutual cooperation and support are important."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["growth", "strength"],
+    "translations": {
+      "bn": "শক্তি ও বৃদ্ধি একত্রে ঘটে।",
+      "en": "Strength and growth happen together."
+    }
+  },
+  {
+    "author": "Ibn Qayyim",
+    "reference": "",
+    "tags": ["knowledge", "truth"],
+    "translations": {
+      "bn": "জ্ঞান এবং সত্য আমাদের জীবনকে রঙিন করে।",
+      "en": "Knowledge and truth color our lives."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:163",
+    "tags": ["faith", "trust"],
+    "translations": {
+      "bn": "আল্লাহ সর্বদা তোমাদেরকে সাহায্য করবেন।",
+      "en": "Allah will always help you."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["dedication", "patience"],
+    "translations": {
+      "bn": "প্যাশন এবং ধৈর্য দিয়ে কাজ করো।",
+      "en": "Work with passion and patience."
+    }
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "reference": "",
+    "tags": ["humility", "integrity"],
+    "translations": {
+      "bn": "বিনয় আমাদেরকে সৎ রাখে।",
+      "en": "Humility keeps us honest."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:177",
+    "tags": ["faith", "kindness"],
+    "translations": {
+      "bn": "সত্যের পথে যারা, তারা আল্লাহর কাছে প্রিয়।",
+      "en": "Those who are on the path of truth are beloved by Allah."
+    }
+  },
+  {
+    "author": "Prophet Muhammad (PBUH)",
+    "reference": "",
+    "tags": ["support", "kindness"],
+    "translations": {
+      "bn": "আসুন একে অপরকে সাহায্য করি।",
+      "en": "Let's support each other."
+    }
+  },
+  {
+    "author": "Quran",
+    "reference": "Surah Al-Baqarah 2:261",
+    "tags": ["charity", "support"],
+    "translations": {
+      "bn": "দানশীলতা এবং সমর্থন গুরুত্বপূর্ণ।",
+      "en": "Charity and support are important."
     }
   }
 ]

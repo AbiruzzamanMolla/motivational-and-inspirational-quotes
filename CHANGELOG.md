@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.3] - 2024-10-06
+### Changed
+- Added new islamic 100 quotes.
+
 ## [0.0.2] - 2024-10-06
 ### Changed
 - Updated `quotes.json` to primarily use Bangla for all quotes.

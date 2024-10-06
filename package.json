@@ -2,7 +2,7 @@
   "name": "motivational-and-inspirational-quotes",
   "displayName": "Motivational and Inspirational Quotes (Muslim)",
   "description": "An extension that displays motivational and inspirational quotes in Bangla and English, enhancing your coding experience with daily encouragement.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "icon.webp",
   "publisher": "azmolla",
   "engines": {
