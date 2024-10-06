@@ -1,8 +1,8 @@
 {
   "name": "motivational-and-inspirational-quotes",
   "displayName": "Motivational and Inspirational Quotes (Muslim)",
-  "description": "This is a test quotes extension",
-  "version": "0.0.1",
+  "description": "An extension that displays motivational and inspirational quotes in Bangla and English, enhancing your coding experience with daily encouragement.",
+  "version": "0.0.2",
   "icon": "icon.webp",
   "publisher": "azmolla",
   "engines": {
@@ -28,15 +28,15 @@
       "properties": {
         "motivationalQuotes.defaultLanguage": {
           "type": "string",
-          "default": "en",
+          "default": "bn",
           "description": "Default language for the quotes",
           "enum": [
-            "en",
-            "bn"
+            "bn",
+            "en"
           ],
           "enumDescriptions": [
-            "English",
-            "Bangla"
+            "Bangla",
+            "English"
           ]
         }
       }
@@ -65,5 +65,5 @@
     "type": "git",
     "url": "https://github.com/AbiruzzamanMolla/motivational-and-inspirational-quotes.git"
   },
-  "homepage": "https://marketplace.visualstudio.com/publishers/azmolla"
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=azmolla.motivational-and-inspirational-quotes"
 }

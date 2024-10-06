@@ -1,22 +1,20 @@
 [
   {
-    "quoteText": "The best way to predict the future is to create it.",
     "author": "Peter Drucker",
     "reference": "",
     "tags": ["inspiration", "future"],
     "translations": {
-      "en": "The best way to predict the future is to create it.",
-      "bn": "ভবিষ্যৎকে পূর্বানুমান করার সেরা উপায় হল এটি তৈরি করা।"
+      "bn": "ভবিষ্যৎকে পূর্বানুমান করার সেরা উপায় হল এটি তৈরি করা।",
+      "en": "The best way to predict the future is to create it."
     }
   },
   {
-    "quoteText": "Success is not the key to happiness. Happiness is the key to success.",
     "author": "Albert Schweitzer",
     "reference": "",
     "tags": ["success", "happiness"],
     "translations": {
-      "en": "Success is not the key to happiness. Happiness is the key to success.",
-      "bn": "সফলতা সুখের চাবিকাঠি নয়। সুখ সফলতার চাবিকাঠি।"
+      "bn": "সফলতা সুখের চাবিকাঠি নয়। সুখ সফলতার চাবিকাঠি।",
+      "en": "Success is not the key to happiness. Happiness is the key to success."
     }
   }
 ]

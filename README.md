@@ -5,9 +5,10 @@ This VS Code extension displays motivational and inspirational quotes whenever V
 ## Features
 
 - Displays a random motivational or inspirational quote every time VS Code starts.
-- Quotes include text, author, reference, tags, and translations.
-- Supports multiple languages (currently English and Bangla).
-- User-configurable default language via VS Code settings.
+- Quotes are provided primarily in Bangla, with English as an optional translation.
+- Each quote includes the author, reference, tags, and translations.
+- User-configurable default language via VS Code settings, with Bangla set as the default.
+
 
 ## Usage
 
